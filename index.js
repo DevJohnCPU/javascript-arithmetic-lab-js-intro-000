@@ -25,13 +25,13 @@ function dec(n){
 }
 
 function makeInt(n){
-   parseInt( '2.222', 10 );
+   parseInt( '0x2328' , 10 );
    return n;
 
 
 }
 
 function preserveDecimal(n){
-  parseFloat( 'n' );
+  parseFloat( '2.222' );
   return n;
 }
