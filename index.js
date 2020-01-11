@@ -25,7 +25,8 @@ function dec(n){
 }
 
 function makeInt(n){
-         parseInt( "n", 10 );
+        var n;
+         Number.parseInt( 'n', 10 );
          console.log(n);
 
 }
