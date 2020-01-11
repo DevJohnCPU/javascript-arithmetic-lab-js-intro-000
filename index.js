@@ -25,9 +25,9 @@ function dec(n){
 }
 
 function makeInt(n){
-        
+
          Number.parseInt( 'n', 10 );
-         
+
 
 }
 
